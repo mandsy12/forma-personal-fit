@@ -6,7 +6,7 @@ O FORMA é uma aplicação web voltada para organização e acompanhamento de tr
 
 A proposta é oferecer uma experiência simples e visual para consultar exercícios, organizar treinos personalizados e acompanhar a consistência da rotina.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Cadastro e personalização do nome da usuária
 - Organização de treinos por grupos musculares
@@ -19,7 +19,7 @@ A proposta é oferecer uma experiência simples e visual para consultar exercíc
 - Visão semanal de acompanhamento dos treinos
 - Painel de progresso no perfil
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - React
 - TypeScript
@@ -30,7 +30,7 @@ A proposta é oferecer uma experiência simples e visual para consultar exercíc
 - Git
 - GitHub
 
-## 📱 Sobre o projeto
+## Sobre o projeto
 
 O FORMA foi desenvolvido com foco em uma experiência simples, responsiva e adaptada para uso em dispositivos móveis.
 
@@ -38,7 +38,7 @@ A aplicação não depende de backend, banco de dados ou APIs externas para suas
 
 Os GIFs dos exercícios também são utilizados como arquivos locais dentro do projeto.
 
-## 📂 Estrutura principal
+## Estrutura principal
 
 ```text
 src/
@@ -68,3 +68,13 @@ src/
 │   └── treinos.$workoutId.tsx
 │
 └── styles.css
+```
+## Status do projeto
+Em desenvolvimento.
+
+A primeira versão da aplicação já possui a estrutura principal de navegação, treinos, exercícios, personalização e armazenamento local.
+
+Novas funcionalidades e melhorias de interface serão adicionadas conforme a evolução do projeto.
+
+## Desenvolvido por Amanda Monteiro
+Projeto desenvolvido como prática de desenvolvimento web, organização de software, Git/GitHub e construção de interfaces responsivas.
